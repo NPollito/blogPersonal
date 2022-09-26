@@ -1,2 +1,2 @@
 # blogPersonal
-Blog Personal platzi
+Blog Personal platzi clic [**aquí**](https://npollito.github.io/blogPersonal/)
